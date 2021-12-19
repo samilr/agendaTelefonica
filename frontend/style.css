@@ -1,0 +1,25 @@
+.container{
+    margin-top: 30px;
+    background-color: rgba(77, 159, 240, 0.973);
+    border-radius: 10px;
+}
+h1{
+text-align: center;
+padding-top: 25PX;
+}
+
+table thead{
+    background-color: rgb(40, 40, 46);
+    color: white;
+}
+
+tbody{
+    text-align: center;
+}
+
+#btnCrear{
+    margin: 10px 0 10px 0;
+    background-color: l;
+    float: left;
+}
+
